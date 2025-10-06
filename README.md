@@ -20,6 +20,6 @@
 ```bash
 pkg update && pkg upgrade
 pkg install git -y
-git clone https://github.com/Anmolgrewal04/System_pro_moniter
+git clone https://github.com/mr-xhacker/System_pro_moniter
 cd System_pro_moniter
 chmod +x system.sh
